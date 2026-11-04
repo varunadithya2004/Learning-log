@@ -1,1 +1,1 @@
-# Learning-log
+DAY1: started python . 
